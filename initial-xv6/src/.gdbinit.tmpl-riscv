@@ -1,0 +1,3 @@
+# .gdbinit.tmpl-riscv
+set architecture riscv:rv64
+target remote localhost:26000
